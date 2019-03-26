@@ -39,4 +39,7 @@ To start a project, better follow steps.
       }
    ```
 
+## Useful Links
+
+* [Awesome React Hooks Resources](<https://github.com/rehooks/awesome-react-hooks>)
 
