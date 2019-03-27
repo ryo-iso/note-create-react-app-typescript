@@ -56,7 +56,7 @@
     "prettier/prettier": [
       "error", {
         "arrowParens": "always",
-        "parser": "babel",
+        "parser": "typescript",
         "singleQuote": true,
         "trailingComma": "es5"
       }
